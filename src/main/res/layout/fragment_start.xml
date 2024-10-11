@@ -1,0 +1,42 @@
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/inputTypeLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Input Type"
+        android:textSize="16sp"
+        android:padding="8dp"/>
+
+    <Spinner
+        android:id="@+id/inputTypeSpinner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:id="@+id/activityTypeLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Activity Type"
+        android:textSize="16sp"
+        android:padding="8dp"/>
+
+    <Spinner
+        android:id="@+id/activityTypeSpinner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <Button
+        android:id="@+id/startButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="START"
+        android:layout_gravity="center"
+        android:padding="16dp"
+        android:background="?android:attr/selectableItemBackground"/>
+</LinearLayout>

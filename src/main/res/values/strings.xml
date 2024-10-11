@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Faiza_Tabassum_MyRuns2</string>
+    <string name="profile">Profile</string>
+    <string name="profile_image_description">Profile Picture</string>
+    <string name="photo">Change Photo</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="year">Class</string>
+    <string name="major">Major</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="user_profile_activity_label">User Profile</string>
+</resources>

@@ -1,0 +1,7 @@
+
+<resources>
+    <style name="Theme.Faiza_Tabassum_MyRuns2" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowActionBar">true</item>
+        <item name="android:windowNoTitle">false</item>
+    </style>
+</resources>
